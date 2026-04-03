@@ -6,7 +6,7 @@ banyaknya kasus yang terjadi seperti kebakaran dan ledakan yang terjadi akibat a
 terutama pada tabung gas LPG. Untuk mengatasi masalah tersebut, 
 kami membuat alat pendeteksi gas sederhana yang diharapkan bisa mengurangi kejadian yang tidak diinginkan pada pengguna tabung gas LPG.
 
-Proyek Sederhana ini disusun oleh:
+Proyek Sederhana ini disusun oleh kelompok 6 yang terdiri dari;
 - Ammar Nabil Fauzan (2309106006)
 - Zhorif Fachdiat (2309106014)
 - Adhitya Fajar Al-Huda (2309106027)
