@@ -28,4 +28,7 @@ Komponen yang digunakan pada proyek ini diantaranya;
 5. 10 Kabel jumper
 
 --input gambar annti
+<p align="center">
+  <img src="board-schematics" alt="skema papan" width="500" />
+</p>
 
