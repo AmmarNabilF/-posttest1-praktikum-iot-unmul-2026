@@ -29,6 +29,6 @@ Komponen yang digunakan pada proyek ini diantaranya;
 
 --input gambar annti
 <p align="center">
-  <img src="board-schematics" alt="skema papan" width="500" />
+  <img src="board-schematics.jpeg" alt="skema papan" width="500" />
 </p>
 
