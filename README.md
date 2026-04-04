@@ -27,7 +27,8 @@ Komponen yang digunakan pada proyek ini diantaranya;
 4. 1 Kabel USB to C
 5. 10 Kabel jumper
 
---input gambar annti
+### Board Schematics
+
 <p align="center">
   <img src="board-schematics.jpeg" alt="skema papan" width="500" />
 </p>
