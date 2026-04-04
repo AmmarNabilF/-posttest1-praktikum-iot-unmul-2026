@@ -25,7 +25,7 @@ Komponen yang digunakan pada proyek ini diantaranya;
 2. 1 Sensor MQ
 3. 3 LED (Merah, Kuning, Hijau)
 4. 1 Kabel USB to C
-5. 10 Kabel jumper
+5. 9 Kabel jumper
 
 ### Board Schematics
 
